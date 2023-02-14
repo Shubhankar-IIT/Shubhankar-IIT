@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shubhankar-IIT
-- 👀 I’m interested in Machine Learning,Data Analysis
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 👋 Hi, I’m @Shubhankar Singh
+- 👀 I’m interested in Computational Fluid Dynamics, Machine Learning, Data Analysis
+- 🌱 I’m currently learning High Performance Computing, Python, FORTRAN 90
+- 💞️ I’m looking to collaborate on CFD Projects
 
 <!---
 Shubhankar-IIT/Shubhankar-IIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
